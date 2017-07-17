@@ -1,0 +1,88 @@
+@import url(../../../wp-admin/css/colors-fresh.css);
+a,#rightnow a{color:#003399;text-decoration:none;}
+body,#wphead{background:#FFFFCC;color:#000000;}
+#wphead,body.login{border-top-color:#000000;}
+#wphead{background:url(stripe.png);}
+#wphead h1{color:#FFFFFF;background:#666666;}
+#dashmenu a.current{padding-bottom:3px;color:#FFFF00;background:#000000;}
+#wphead #viewsite a:hover{border-color:#000000;color:#000000;background:#FFFF00;text-decoration:none;}
+#adminmenu{border-bottom:0;background:#000000;}
+#sidemenu a{border-bottom-color:#000000;border-top-color:#000000;padding-left:12px;color:#FFFF00;background:#000000;}
+#sidemenu a:hover{border-bottom-color:#FFFF66;border-top-color:#FFFF66;}
+#sidemenu a.current:hover{background:#FFFF66;}
+#user_info a,#adminmenu a{padding:2px;color:#FFFF00;}
+#user_info a:hover{color:#000000;background:#FFFF66;text-decoration:none;}
+.wrap h2{border:1px solid #000000 !important;padding:4px;margin-top:20px;color:#000000;background:url(stripe.png) repeat-y right #FFFF00;}
+#rightnow,div.dashboard-widget,.widefat{border-color:#666666;border:1px solid !important;}
+#rightnow .reallynow{color:#000000;background:url(stripe.png) #FFFF99;}
+#rightnow .reallynow span{border:1px solid #FFFF00;color:#FFFF00;background:#000000;}
+#rightnow .rbutton{border:1px solid #000000 !important;color:#000000;background:#FFFF99;}
+#rightnow .rbutton:hover{color:#000000;text-decoration:underline;}
+#rightnow .youhave{background:#FFFF99;}
+.wrap{margin:0;margin-left:auto;margin-right:auto;padding:0;max-width:90%;}
+.updated,.error{margin:20px auto 0 auto;border:2px solid #000000;background:url(stripe.png);text-align:center;max-width:70%;}
+.updated p,.error p{padding:2px;background:#000000;}
+.error p{color:#FF0000;}
+a:hover,#rightnow a:hover{color:#000066;text-decoration:underline;}
+h3.dashboard-widget-title{padding:4px 4px 5px 4px !important;background:url(stripe.png);}
+h3.dashboard-widget-title span{border:1px solid #FFFF00;padding:0 4px 0 4px;color:#FFFF00;background:#000000;}
+h3.dashboard-widget-title small{border:1px solid #000000;padding:0 4px 0 4px;color:#000000;background:#FFFF99;}
+h3.dashboard-widget-title small a{color:#000000;font-weight:normal;}
+.dashboard-widget-content span.rss-date{color:#666666 !important;}
+#dashboard_secondary div.dashboard-widget-content ul li a{border:none !important;background:#FFFF99;}
+#dashboard_secondary div.dashboard-widget-content ul li .post{height:45px !important;}
+div.dashboard-widget-content ul li a cite{color:#666666;}
+#footer{padding:10px;background:url(stripe.png) #000000 repeat-y;}
+#footer p{padding:0 4px 4px 4px;width:90%;margin-left:auto;margin-right:auto;margin-top:20px;display:inline-block;color:#999999;background:#000000;}
+#adminmenu a.current,#sidemenu a.current{border:1px solid #FFFF99;padding-left:12px;color:#000000;background:url(stripenarrow.png) #FFFF99 repeat-y;}
+h3{padding:2px 62px;border:1px solid #000000;color:#FFFFFF;background:url(stripe.png) #666666 repeat-y left;}
+.form-table td,.form-table th{border-bottom-color:#FFFFCC;}
+.form-table input,.form-table textarea{border-color:#666666;}
+#pass-strength-result{border-color:#000000;color:#FFFFFF;background:#CC0000;font-weight:bold;}
+#pass-strength-result.bad{background:#CC6600;}
+#pass-strength-result.good{color:#000000;background:#FFFF33;}
+#pass-strength-result.short{color:#FFFFFF;background:#CC0000;}
+#pass-strength-result.strong{color:#000000;background:#33CC00;}
+.submit input:hover{color:#000000;background:#FFFF00;}
+#submenu{padding:0 0 0 10px;background:#666666;}
+#submenu li{padding:0;}
+#submenu li a{padding:6px 8px;padding-left:16px;display:inline-block;color:#FFFF00;}
+#submenu li a.current{color:#000000;background:url(stripenarrow.png) #FFFF99 repeat-y !important;}
+p#post-search{float:right;position:static;}
+p#post-search input.button{color:#000000;background:#FFFF99;}
+p#post-search input.button:hover{background:#FFFF00;}
+.tablenav{clear:left;background:transparent;}
+input.button-secondary,a.button-secondary{border:1px solid #000000 !important;color:#000000 !important;background:#FFFF99 !important;}
+input.button-secondary:hover{background:#FFFF00 !important;}
+a.button-secondary:hover{background:#FFFF00 !important;text-decoration:none !important;}
+.tablenav .delete:hover{background:#FF0000 !important;color:#FFFFFF !important;}
+#plugins tr{background:#FFFFFF;}
+#plugins tr td.name{padding-left:14px;background:url(stripenarrow.png) #FFFFFF repeat-y;}
+#plugins tr.active td.name{background:none;background:#FFFFCC;}
+.plugin-update{background:url(stripe.png) #FFFF00 repeat-y right;font-weight:bold;}
+p#post-search input,textarea,input,select{border:1px solid #000000;}
+.submit,div.dashboard-widget,#rightnow,.bordertitle{border:none !important;}
+.submit input,.button{border:1px solid #000000 !important;padding:4px !important;margin:4px !important;background:#FFFF99;}
+.side-info h5{border:none;}
+#poststuff .closed .togbox{background:url(stripenarrow.png) repeat-y center;}
+#poststuff #titlewrap{border-color:#000000;}
+ul#category-tabs li.ui-tabs-selected{background:#FFFF66 !important;}
+div.ui-tabs-panel{border-color:#FFFF66;}
+#wphead #viewsite a,.submit input{border-color:#000000;color:#000000;background:#FFFF99;}
+#dashmenu a.current:hover,#adminmenu a:hover,#sidemenu a:hover,#submenu li a:hover{color:#000000;background:#FFFF66;}
+.updated p,#footer a{color:#FFFF00;}
+#post-body h3,.submitbox #previewview,.submitbox .submit{background:#666666;}
+#poststuff #edButtonPreview,#poststuff #edButtonHTML{color:#FFFF00;}
+#poststuff #edButtonPreview:hover,#poststuff #edButtonHTML:hover{color:#000000;background:#FFFF00;text-decoration:none;}
+#poststuff #editor-toolbar .active{color:#000000;background:#FFFF99;}
+#poststuff #media-buttons{color:#FFFFFF;}
+#quicktags,#ed_toolbar,.mceFirst,.wp_themeSkin table{background:#FFFF99 !important;}
+.alternate{background:#FFFFDD;}
+a.page-numbers{border-color:#000000;background:#FFFF99;}
+a.page-numbers:hover{border-color:#000000;background:#FFFF00;}
+.page-numbers.current{border-color:#000000;color:#FFFF00;background:#000000;}
+.tablenav .dots{background:transparent;border;none:;}
+.tablenav .next,.tablenav .prev{border:none;color:#003399;background:transparent;text-decoration:none !important;}
+.tablenav .next:hover,.tablenav .prev:hover{background:transparent;color:#003399;text-decoration:underline !important;}
+#footer p:after{float:right;display:block;font-size:xx-small;content:' (Under Construction Color Scheme by Sean Lindsay)';}
+#dashboard_secondary div.dashboard-widget-content ul li a:visited,.form-table tr,#plugins tr.active,.submitbox,.side-info,.wp_themeSkin .mceButton{background:#FFFFCC;}
